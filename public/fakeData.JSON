@@ -1,0 +1,52 @@
+[
+    {
+        "name": "LG",
+        "id": 1,
+        "price": "5000Tk",
+        "img": "https://static.digit.in/default/thumb_135011_default_td_480x480.jpeg"
+    },
+    {
+        "name": "Apple",
+        "id": 2,
+        "price": "60,000Tk",
+        "img": "https://img.computerunivers.net/images/400x400/908182176481654A14074E2997D5042B.jpg"
+    },
+    {
+        "name": "Lenovo",
+        "id": 3,
+        "price": "10,000Tk",
+        "img": "https://www.powerplanetonline.com/cdnassets/lenovo_k10_note_002_azul_ad_l.jpg"
+    },
+    {
+        "name": "Google",
+        "id": 4,
+        "price": "50,000Tk",
+        "img": "https://www.gizmochina.com/wp-content/uploads/2019/09/Google-Pixel-4-1-600x600.jpg"
+    },
+    {
+        "name": "Motorola",
+        "id": 5,
+        "price": "70,000Tk",
+        "img": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z-1.jpg"
+    },
+    {
+        "name": "Huawei",
+        "id": 6,
+        "price": "35,000Tk",
+        "img": "https://www.gizmochina.com/wp-content/uploads/2019/07/Nova-5-500x500.jpg"
+    },
+    {
+        "name": "Samsung",
+        "id": 7,
+        "price": "40,000Tk",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFjGQl7NRWDEBQbXdWzxNOk172p0tm3HlzQ&usqp=CAU"
+    },
+
+    {
+        
+        "name": "Walton",
+        "id": 8,
+        "price": "15,000Tk",
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800,h_800/https://goprice.com.bd/wp-content/uploads/2021/05/Walton-Primo-ZX4.jpg"
+    }
+]
