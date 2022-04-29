@@ -20,7 +20,7 @@ export default function App() {
         <h1 style={{ color: '#123456' }} className="mt-3 mb-3">Search Your <span className="text-warning">Mobile</span></h1>
         <div className="input-group w-50 mb-3">
           <input onChange={handleSeacrField} type="text" class="form-control" placeholder="Search....." aria-label="Recipient's username" aria-describedby="button-addon2" />
-          <button className="btn btn-outline-primary btn-lg " type="button" id="button-addon2"> <i className="fas fa-search"></i></button>
+          <button className="btn btn-outline-dark btn-lg " type="button" id="button-addon2"> <i className="fas fa-search"></i></button>
         </div>
       </div>
       <div class="container">
